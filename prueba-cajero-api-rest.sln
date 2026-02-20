@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba-cajero-api-rest.Application", "prueba-cajero-api-rest.Application\prueba-cajero-api-rest.Application.csproj", "{7CEC8EFE-862E-4A9F-9E9B-B3BA236743EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba-cajero-api-rest.Domain", "prueba-cajero-api-rest.Domain\prueba-cajero-api-rest.Domain.csproj", "{B1915304-732C-4F00-9123-F06885E2D417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba-cajero-api-rest.Infrastructure", "prueba-cajero-api-rest.Infrastructure\prueba-cajero-api-rest.Infrastructure.csproj", "{1512F4F0-3733-4C4A-A930-6FB67AE64547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba-cajero-api-rest.API", "prueba-cajero-api-rest.API\prueba-cajero-api-rest.API.csproj", "{AFE29407-1081-087D-CD84-91D79EC00A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CEC8EFE-862E-4A9F-9E9B-B3BA236743EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEC8EFE-862E-4A9F-9E9B-B3BA236743EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEC8EFE-862E-4A9F-9E9B-B3BA236743EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEC8EFE-862E-4A9F-9E9B-B3BA236743EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1915304-732C-4F00-9123-F06885E2D417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1915304-732C-4F00-9123-F06885E2D417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1915304-732C-4F00-9123-F06885E2D417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1915304-732C-4F00-9123-F06885E2D417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1512F4F0-3733-4C4A-A930-6FB67AE64547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1512F4F0-3733-4C4A-A930-6FB67AE64547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1512F4F0-3733-4C4A-A930-6FB67AE64547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1512F4F0-3733-4C4A-A930-6FB67AE64547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE29407-1081-087D-CD84-91D79EC00A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE29407-1081-087D-CD84-91D79EC00A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE29407-1081-087D-CD84-91D79EC00A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE29407-1081-087D-CD84-91D79EC00A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B406E4C3-B273-40E2-8B2B-61E6784ED7F3}
+	EndGlobalSection
+EndGlobal
